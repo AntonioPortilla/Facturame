@@ -21,6 +21,9 @@ wp-content/themes/optimizePressTheme/pages/marketing/1/template.php
 prueba.php
 index2.php
 fac-defines.php
+!public/fonts/
+!public/images/
+!public/tpl/
 bower_components/
 node_modules/
 vendor/
