@@ -1,0 +1,25 @@
+{
+  "name": "Facturame.la - Perú",
+  "version": "0.1.0",
+  "homepage": "www.planhperu.com",
+  "authors": [
+    "Julio Laveriano <julioantonio.lp@gmail.com>"
+  ],
+  "description": "Facturas en Línea",
+  "keywords": [
+    "css",
+    "js",
+    "web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
