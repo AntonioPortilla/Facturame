@@ -16,7 +16,7 @@ wp-content/themes/
 wp-content/themes/optimizePressTheme/pages/marketing/1/template.php
 
 
-#adicional
+#configuracion adicional
 *.log
 prueba.php
 index2.php
