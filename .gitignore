@@ -33,6 +33,7 @@ fac-defines.php
 !public/fonts/
 !public/images/
 !public/tpl/
+*.sql
 
 # Windows
 Thumbs.db
