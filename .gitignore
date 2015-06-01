@@ -33,6 +33,8 @@ fac-defines.php
 !public/fonts/
 !public/images/
 !public/tpl/
+facturame_web.sql
+robots.txt
 
 # Windows
 Thumbs.db
