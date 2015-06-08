@@ -50,7 +50,7 @@ module.exports = function(grunt) {
       }
     },
     jshint: {
-      all: ['Gruntfile.js', 'dev/js/scripts.js']
+      all: ['Gruntfile.js', 'dev/js/*.js']
     },    
     exec: {
       npmUpdate: {
