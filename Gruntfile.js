@@ -28,7 +28,8 @@ module.exports = function(grunt) {
         files: {
           'public/js/scripts.min.js': [
           'dev/js/scripts.js',
-          'dev/js/jquery.sabecarousel.js'
+          'dev/js/jquery.sabecarousel.js',
+          'dev/js/scrolltop.js'
           ]
         }
       }
