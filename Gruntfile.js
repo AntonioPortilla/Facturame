@@ -12,7 +12,7 @@ module.exports = function(grunt) {
           stripBanners: true
       },
       dist: {
-          src: 'dev/css/*.css',
+          src: ['dev/css/sabecarousel.css', 'stylus'],
           dest: 'prod/css/styles.css'
       }
     },
